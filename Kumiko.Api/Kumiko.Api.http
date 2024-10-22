@@ -1,0 +1,6 @@
+@Kumiko.Api_HostAddress = http://localhost:5244
+
+GET {{Kumiko.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
