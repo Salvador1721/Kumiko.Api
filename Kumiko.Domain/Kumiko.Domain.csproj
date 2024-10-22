@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Kumiko.Application\Kumiko.Application.csproj" />
+  </ItemGroup>
+
 </Project>
