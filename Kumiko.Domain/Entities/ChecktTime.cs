@@ -7,4 +7,5 @@ public class ChecktTime : ModelBase //quitas interna y pones publica (nivel de a
 {
     public DateTime Check {  get; set; }    
     public CheckTypeEnum CheckType { get; set; }
+    public CheckTypeEnum CheckType2 { get; set; }
 }
